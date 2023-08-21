@@ -76,7 +76,7 @@ body {
   flex-direction: row;
   justify-content: space-between;
   align-content: flex-start;
-  background-color: black;
+  background-color: #292947;
   padding: 2vw 5vw;
 }
 
@@ -92,8 +92,8 @@ body {
 
 #section1 {
   text-align: left;
-  background-color: black;
-  color: white;
+  background-color: #292947;
+  color: #ffffff;
 }
 
 #section1 h1, #section1 p {
@@ -117,8 +117,8 @@ body {
   margin-bottom: 5vw;
   margin-left: 5vw;
   border: none;
-  background-color: white;
-  color: black;
+  background-color: #ffffff;
+  color: #292947;
   padding: 1vw;
   border-radius: 0.25vw;
   font-size: 2vw;
