@@ -125,9 +125,12 @@ body {
   padding: 1vw 5vw;
   text-align: left;
   justify-content: space-between;
+  flex-wrap: wrap;
 }
 
-div{
+.compend{
+  width: 15vw;
+  height: 25vw;
   margin-right: 2vw;
 }
 
