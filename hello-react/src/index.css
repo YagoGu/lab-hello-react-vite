@@ -126,3 +126,18 @@ body {
   text-align: left;
   justify-content: space-between;
 }
+
+div{
+  margin-right: 2vw;
+}
+
+.title {
+  font-weight: bolder;
+  font-size: 2vw;
+  margin-bottom: 0;
+}
+
+.desc {
+  color: gray;
+  margin-top: 0.5vw;
+}
