@@ -80,8 +80,14 @@ body {
   padding: 2vw 5vw;
 }
 
+.header img:nth-child(2) {
+  width: 2vw;
+  height: 2vw;
+}
+
 .header img:nth-child(1) {
   width: 3vw;
+  height: 3vw;
 }
 
 #section1 {
